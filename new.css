@@ -1,0 +1,19 @@
+#head{
+   height: 80px;
+   border: 2px solid black;
+   border: none;
+   border-bottom: 2px black solid;
+   display: flex;
+   align-items: center;
+}
+#head>h3{
+    color: #662166;
+}
+#fname,#address,#description,#mb{
+    border: 1px black solid;
+}
+#container{
+
+    background-color: transparent;
+   
+}
